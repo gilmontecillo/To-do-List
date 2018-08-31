@@ -1,0 +1,7 @@
+{
+  "name": "gilex",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
